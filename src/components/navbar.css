@@ -1,0 +1,21 @@
+
+ul{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+ul li{
+    margin: 10px;
+    display: inline-block;
+    margin-inline: 20px;
+}
+
+ul li a {
+    color: brown;
+    text-decoration: none;
+}
+
+.my-class {
+    background-color: blue;
+}
